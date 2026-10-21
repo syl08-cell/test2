@@ -1,0 +1,14 @@
+# 编译产物
+build/
+
+# 运行产物
+output/
+
+# 视频文件太大，不要提交
+data/*.avi
+data/*.mp4
+
+# 编辑器临时文件
+.vscode/ipch/
+*.swp
+*~
