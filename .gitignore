@@ -2,7 +2,6 @@
 build/
 
 # 运行产物
-output/
 
 # 视频文件太大，不要提交
 data/*.avi
